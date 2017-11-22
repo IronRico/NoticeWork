@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="submit">Login</string>
+    <string name="instructions">Enter Pin to Login</string>
+</resources>
